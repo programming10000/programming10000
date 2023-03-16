@@ -4,6 +4,15 @@
 A reliable and motivated Web Developer and Graphics Designer with well-developed applicable skills in Web app, Rest API , Soap API ,mobile app
 development and graphics design. Fully passionate in my works and dedicated to develop quality, reliable and world class 
 applications and designs , keen to serve my clients with 100% honesty and accuracy .I am really looking forward to working with you thank you.
+##Skills
++ python
++ Javascript
++ Html $ css
++ Django
++ React
++ sql,MongoDB,postgreSQL
++ Figma
++ Adobe Softwares
 
 ### Invite me in your project and I will collaborate with you.
 
