@@ -1,11 +1,11 @@
 ### Hi there 👋
 #  I am Mulugeta Endeshaw
 ##  Full-Stack Developer
----
-### Invite me in your project and I will collaborate with you.
 A reliable and motivated Web Developer and Graphics Designer with well-developed applicable skills in Web app, Rest API , Soap API ,mobile app
 development and graphics design. Fully passionate in my works and dedicated to develop quality, reliable and world class 
 applications and designs , keen to serve my clients with 100% honesty and accuracy .I am really looking forward to working with you thank you.
+
+### Invite me in your project and I will collaborate with you.
 
 <!--
 **programming10000/programming10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
