@@ -12,7 +12,7 @@ applications and designs , keen to serve my clients with 100% honesty and accura
 + React
 + sql,MongoDB,postgreSQL
 + Figma
-+ Adobe Softwares
+
 
 ### Invite me in your project and I will collaborate with you.
 
