@@ -1,7 +1,7 @@
 ### Hi there 👋
 #  I am Mulugeta Endeshaw
 ##  Full-Stack Web Developer
-A reliable and motivated Web Developer and Graphics Designer with well-developed applicable skills in Web app, Rest API , Soap API ,mobile app
+Web Developer and Graphics Designer with well-developed applicable skills in Web app, Rest API , Soap API ,mobile app
 development and graphics design. Fully passionate in my works and dedicated to develop quality, reliable and world class 
 applications and designs.
 ## Skills
