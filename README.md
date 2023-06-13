@@ -10,11 +10,12 @@ applications and designs.
 + Html $ css
 + Django
 + React
++ Typescript
++ NodeJS
 + sql,MongoDB,postgreSQL
 + Figma
 
 
-### Invite me in your project and I will collaborate with you.
 
 <!--
 **programming10000/programming10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
